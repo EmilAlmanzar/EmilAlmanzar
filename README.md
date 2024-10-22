@@ -1,31 +1,19 @@
-<h1>Hi, I'm Emil! </h1> 
+<h1>Hi, I'm Emil, an <a href="https://linkedin.com/in/emil-almanzar">IT Professional</a></h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/EmilAlmanzar/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/EmilAlmanzar/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/EmilAlmanzar/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EmilAlmanzar/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EmilAlmanzar/azure-network-protocols)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🤳Connect with me:</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-  
-<h2>:page_with_curl: Certifications</h2>
-
-- [CompTIA Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [ITIL Foundations](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/emil-almanzar
-
